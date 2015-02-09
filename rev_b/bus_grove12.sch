@@ -37,8 +37,8 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 2
 Title "Bus Grove 12"
-Date "Sun 02 Nov 2014"
-Rev "A"
+Date "Mon 09 Feb 2015"
+Rev "B"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -148,7 +148,7 @@ U 1 1 53E96ADF
 P 1150 7500
 F 0 "N2" H 1050 8100 50  0000 C CNN
 F 1 "FTDI_HEADER" H 1150 7275 50  0000 C CNN
-F 2 "bus_grove12:Pin_Header_Straight_1x06" H 1150 7500 60  0001 C CNN
+F 2 "~" H 1150 7500 60  0000 C CNN
 F 3 "" H 1150 7500 60  0000 C CNN
 	1    1150 7500
 	1    0    0    -1  
@@ -304,7 +304,7 @@ L C_HORIZ C5
 U 1 1 53E996AB
 P 4200 6950
 F 0 "C5" H 4260 7010 50  0000 L CNN
-F 1 "1uF" H 4260 6880 50  0000 L CNN
+F 1 ".1uF" H 4260 6880 50  0000 L CNN
 F 2 "bus_grove12:Capacitor4x3RM2-5_RevB" H 4238 6800 30  0001 C CNN
 F 3 "" H 4200 6950 60  0000 C CNN
 	1    4200 6950
@@ -1159,8 +1159,6 @@ Connection ~ 2400 6450
 Wire Wire Line
 	1800 6950 1800 7350
 Wire Wire Line
-	1600 7800 5300 7800
-Wire Wire Line
 	1800 7750 1800 7800
 Connection ~ 1800 7800
 Wire Wire Line
@@ -1202,17 +1200,6 @@ Connection ~ 4800 6950
 Wire Wire Line
 	5100 7400 5000 7400
 Connection ~ 5100 6950
-Wire Wire Line
-	5200 6600 5200 7800
-Wire Wire Line
-	5200 6600 5300 6600
-Wire Wire Line
-	5300 7000 5200 7000
-Connection ~ 5200 7000
-Wire Wire Line
-	5300 7400 5200 7400
-Connection ~ 5200 7400
-Connection ~ 5200 7800
 Wire Wire Line
 	4400 7400 4000 7400
 Connection ~ 1550 6250
@@ -1682,4 +1669,11 @@ Wire Wire Line
 	6100 6100 5600 6100
 Wire Wire Line
 	5600 6100 5600 5900
+Connection ~ 5900 1400
+Wire Wire Line
+	1600 7800 4000 7800
+NoConn ~ 5300 6600
+NoConn ~ 5300 7000
+NoConn ~ 5300 7400
+NoConn ~ 5300 7800
 $EndSCHEMATC

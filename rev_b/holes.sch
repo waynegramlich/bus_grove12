@@ -111,34 +111,6 @@ F 3 "" H 4000 4200 60  0000 C CNN
 	1    4000 4200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3800 2700 3700 2700
-Wire Wire Line
-	3700 3000 3800 3000
-Wire Wire Line
-	3700 3300 3800 3300
-Connection ~ 3700 3000
-Wire Wire Line
-	3700 3600 3800 3600
-Connection ~ 3700 3300
-Wire Wire Line
-	3700 3900 3800 3900
-Connection ~ 3700 3600
-Wire Wire Line
-	3700 4200 3800 4200
-Connection ~ 3700 3900
-$Comp
-L GND #PWR024
-U 1 1 54569C14
-P 5400 5500
-F 0 "#PWR024" H 5400 5500 30  0001 C CNN
-F 1 "GND" H 5400 5430 30  0001 C CNN
-F 2 "" H 5400 5500 60  0000 C CNN
-F 3 "" H 5400 5500 60  0000 C CNN
-	1    5400 5500
-	1    0    0    -1  
-$EndComp
-Connection ~ 3700 4200
 $Comp
 L GRVHOLE H11
 U 1 1 545678DE
@@ -271,41 +243,6 @@ F 3 "" H 4500 5100 60  0000 C CNN
 	1    4500 5100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4300 2400 4200 2400
-Wire Wire Line
-	4200 2400 4200 5300
-Wire Wire Line
-	4200 2700 4300 2700
-Wire Wire Line
-	4200 3000 4300 3000
-Connection ~ 4200 2700
-Wire Wire Line
-	4200 3300 4300 3300
-Connection ~ 4200 3000
-Wire Wire Line
-	4200 3600 4300 3600
-Connection ~ 4200 3300
-Wire Wire Line
-	4200 3900 4300 3900
-Connection ~ 4200 3600
-Wire Wire Line
-	4200 4200 4300 4200
-Connection ~ 4200 3900
-Wire Wire Line
-	4200 4500 4300 4500
-Connection ~ 4200 4200
-Wire Wire Line
-	4200 4800 4300 4800
-Connection ~ 4200 4500
-Connection ~ 4200 4800
-Connection ~ 4200 5100
-Wire Wire Line
-	3700 4800 3800 4800
-Connection ~ 3700 4800
-Wire Wire Line
-	3700 4500 3800 4500
-Connection ~ 3700 4500
 $Comp
 L GRVHOLE H23
 U 1 1 54567E22
@@ -416,42 +353,6 @@ F 3 "" H 5000 5100 60  0000 C CNN
 	1    5000 5100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4800 2400 4700 2400
-Wire Wire Line
-	4700 2400 4700 5300
-Wire Wire Line
-	4700 2700 4800 2700
-Wire Wire Line
-	4700 3000 4800 3000
-Connection ~ 4700 2700
-Wire Wire Line
-	4700 3300 4800 3300
-Connection ~ 4700 3000
-Wire Wire Line
-	4700 3600 4800 3600
-Connection ~ 4700 3300
-Wire Wire Line
-	4700 3900 4800 3900
-Connection ~ 4700 3600
-Wire Wire Line
-	4700 4200 4800 4200
-Connection ~ 4700 3900
-Wire Wire Line
-	4700 4500 4800 4500
-Connection ~ 4700 4200
-Wire Wire Line
-	4700 4800 4800 4800
-Connection ~ 4700 4500
-Wire Wire Line
-	4700 5100 4800 5100
-Connection ~ 4700 4800
-Wire Wire Line
-	6800 5300 3700 5300
-Connection ~ 4700 5100
-Connection ~ 4200 5300
-Wire Wire Line
-	4300 5100 4200 5100
 $Comp
 L GRVHOLE H33
 U 1 1 5456903A
@@ -562,35 +463,6 @@ F 3 "" H 6100 5100 60  0000 C CNN
 	1    6100 5100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5900 2400 5800 2400
-Wire Wire Line
-	5800 2400 5800 5300
-Wire Wire Line
-	5800 2700 5900 2700
-Wire Wire Line
-	5800 3000 5900 3000
-Connection ~ 5800 2700
-Wire Wire Line
-	5800 3300 5900 3300
-Connection ~ 5800 3000
-Wire Wire Line
-	5800 3600 5900 3600
-Connection ~ 5800 3300
-Wire Wire Line
-	5800 3900 5900 3900
-Connection ~ 5800 3600
-Wire Wire Line
-	5800 4200 5900 4200
-Connection ~ 5800 3900
-Wire Wire Line
-	5800 4500 5900 4500
-Connection ~ 5800 4200
-Wire Wire Line
-	5800 4800 5900 4800
-Connection ~ 5800 4500
-Connection ~ 5800 4800
-Connection ~ 5800 5100
 $Comp
 L GRVHOLE H43
 U 1 1 54569089
@@ -701,40 +573,6 @@ F 3 "" H 6600 5100 60  0000 C CNN
 	1    6600 5100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6400 2400 6300 2400
-Wire Wire Line
-	6300 2400 6300 5300
-Wire Wire Line
-	6300 2700 6400 2700
-Wire Wire Line
-	6300 3000 6400 3000
-Connection ~ 6300 2700
-Wire Wire Line
-	6300 3300 6400 3300
-Connection ~ 6300 3000
-Wire Wire Line
-	6300 3600 6400 3600
-Connection ~ 6300 3300
-Wire Wire Line
-	6300 3900 6400 3900
-Connection ~ 6300 3600
-Wire Wire Line
-	6300 4200 6400 4200
-Connection ~ 6300 3900
-Wire Wire Line
-	6300 4500 6400 4500
-Connection ~ 6300 4200
-Wire Wire Line
-	6300 4800 6400 4800
-Connection ~ 6300 4500
-Wire Wire Line
-	6300 5100 6400 5100
-Connection ~ 6300 4800
-Connection ~ 6300 5100
-Connection ~ 5800 5300
-Wire Wire Line
-	5900 5100 5800 5100
 $Comp
 L GRVHOLE H53
 U 1 1 545692DC
@@ -801,23 +639,6 @@ F 3 "" H 7100 4200 60  0000 C CNN
 	1    7100 4200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6900 2700 6800 2700
-Wire Wire Line
-	6800 3000 6900 3000
-Wire Wire Line
-	6800 3300 6900 3300
-Connection ~ 6800 3000
-Wire Wire Line
-	6800 3600 6900 3600
-Connection ~ 6800 3300
-Wire Wire Line
-	6800 3900 6900 3900
-Connection ~ 6800 3600
-Wire Wire Line
-	6800 4200 6900 4200
-Connection ~ 6800 3900
-Connection ~ 6800 4200
 $Comp
 L GRVHOLE H59
 U 1 1 5456930C
@@ -840,19 +661,60 @@ F 3 "" H 7100 4800 60  0000 C CNN
 	1    7100 4800
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6800 4800 6900 4800
-Connection ~ 6800 4800
-Wire Wire Line
-	6800 4500 6900 4500
-Connection ~ 6800 4500
-Wire Wire Line
-	3700 5300 3700 2700
-Wire Wire Line
-	6800 2700 6800 5300
-Connection ~ 6300 5300
-Wire Wire Line
-	5400 5300 5400 5500
-Connection ~ 5400 5300
-Connection ~ 4700 5300
+NoConn ~ 3800 2700
+NoConn ~ 3800 3000
+NoConn ~ 3800 3300
+NoConn ~ 3800 3600
+NoConn ~ 3800 3900
+NoConn ~ 3800 4200
+NoConn ~ 3800 4500
+NoConn ~ 3800 4800
+NoConn ~ 4300 5100
+NoConn ~ 4300 4800
+NoConn ~ 4300 4500
+NoConn ~ 4300 4200
+NoConn ~ 4300 3900
+NoConn ~ 4300 3600
+NoConn ~ 4300 3300
+NoConn ~ 4300 3000
+NoConn ~ 4300 2700
+NoConn ~ 4300 2400
+NoConn ~ 4800 2400
+NoConn ~ 4800 2700
+NoConn ~ 4800 3000
+NoConn ~ 4800 3300
+NoConn ~ 4800 3600
+NoConn ~ 4800 3900
+NoConn ~ 4800 4200
+NoConn ~ 4800 4500
+NoConn ~ 4800 4800
+NoConn ~ 4800 5100
+NoConn ~ 5900 5100
+NoConn ~ 5900 4800
+NoConn ~ 5900 4500
+NoConn ~ 5900 4200
+NoConn ~ 5900 3900
+NoConn ~ 5900 3600
+NoConn ~ 5900 3300
+NoConn ~ 5900 3000
+NoConn ~ 5900 2700
+NoConn ~ 5900 2400
+NoConn ~ 6400 5100
+NoConn ~ 6400 4800
+NoConn ~ 6400 4500
+NoConn ~ 6400 4200
+NoConn ~ 6400 3900
+NoConn ~ 6400 3600
+NoConn ~ 6400 3300
+NoConn ~ 6400 3000
+NoConn ~ 6400 2700
+NoConn ~ 6400 2400
+NoConn ~ 6900 2700
+NoConn ~ 6900 3000
+NoConn ~ 6900 3300
+NoConn ~ 6900 3600
+NoConn ~ 6900 3900
+NoConn ~ 6900 4200
+NoConn ~ 6900 4500
+NoConn ~ 6900 4800
 $EndSCHEMATC
