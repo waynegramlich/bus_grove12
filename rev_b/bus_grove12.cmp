@@ -1,0 +1,794 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sun 02 Nov 2014 03:48:29 PM PST
+
+BeginCmp
+TimeStamp = /53EA3E9D;
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = bus_grove12:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA479D;
+Reference = C2;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA4CB4;
+Reference = C3;
+ValeurCmp = 22uF;
+IdModule  = bus_grove12:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA7619;
+Reference = C4;
+ValeurCmp = 18pF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E996AB;
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA7713;
+Reference = C6;
+ValeurCmp = 18pF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456B314;
+Reference = C7;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3930;
+Reference = C8;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3BB3;
+Reference = C9;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3C1E;
+Reference = C10;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3C8A;
+Reference = C11;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F15832;
+Reference = C12;
+ValeurCmp = .1uF;
+IdModule  = bus_grove12:Capacitor4x3RM2-5_RevB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96A4D;
+Reference = D1;
+ValeurCmp = SD101C-TR;
+IdModule  = bus_grove12:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5457298F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = bus_grove12:T1_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AA4798;
+Reference = G1;
+ValeurCmp = OSHW_LOGO;
+IdModule  = bus_grove12:OSHW_LOGO_400mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AA33AA;
+Reference = H1;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_grove12:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9AFD9;
+Reference = H2;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_grove12:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9B07B;
+Reference = H3;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_grove12:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9B0DD;
+Reference = H4;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_grove12:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569A7B;
+Reference = H5;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569AA9;
+Reference = H6;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569AE3;
+Reference = H7;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569B02;
+Reference = H8;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569B2E;
+Reference = H9;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569B53;
+Reference = H10;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545678DE;
+Reference = H11;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567905;
+Reference = H12;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567929;
+Reference = H13;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456798A;
+Reference = H14;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545679B4;
+Reference = H15;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545679DD;
+Reference = H16;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567A05;
+Reference = H17;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567A2E;
+Reference = H18;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567A58;
+Reference = H19;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567A83;
+Reference = H20;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567AB3;
+Reference = H21;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567AE2;
+Reference = H22;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E22;
+Reference = H23;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E28;
+Reference = H24;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E2E;
+Reference = H25;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E34;
+Reference = H26;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E3A;
+Reference = H27;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E40;
+Reference = H28;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E46;
+Reference = H29;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E4C;
+Reference = H30;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E52;
+Reference = H31;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54567E58;
+Reference = H32;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456903A;
+Reference = H33;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569040;
+Reference = H34;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569046;
+Reference = H35;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456904C;
+Reference = H36;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569052;
+Reference = H37;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569058;
+Reference = H38;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456905E;
+Reference = H39;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569064;
+Reference = H40;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456906A;
+Reference = H41;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569070;
+Reference = H42;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569089;
+Reference = H43;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456908F;
+Reference = H44;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569095;
+Reference = H45;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456909B;
+Reference = H46;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545690A1;
+Reference = H47;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545690A7;
+Reference = H48;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545690AD;
+Reference = H49;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545690B3;
+Reference = H50;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545690B9;
+Reference = H51;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545690BF;
+Reference = H52;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545692DC;
+Reference = H53;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545692E2;
+Reference = H54;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545692E8;
+Reference = H55;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545692EE;
+Reference = H56;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545692F4;
+Reference = H57;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/545692FA;
+Reference = H58;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/5456930C;
+Reference = H59;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /545698AF/54569312;
+Reference = H60;
+ValeurCmp = GH;
+IdModule  = bus_grove12:Grove_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96A70;
+Reference = J1;
+ValeurCmp = TERMINATE_JUMPER;
+IdModule  = bus_grove12:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54572E0F;
+Reference = J2;
+ValeurCmp = LED_CONN_2X2;
+IdModule  = bus_grove12:Pin_Header_Straight_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9683A;
+Reference = N1;
+ValeurCmp = BUS_SLAVE_HEADER;
+IdModule  = bus_grove12:Pin_Header_Straight_2x05_Shrouded;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96ADF;
+Reference = N2;
+ValeurCmp = FTDI_HEADER;
+IdModule  = bus_grove12:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /545655B6;
+Reference = N3;
+ValeurCmp = D2/D3;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54565A7A;
+Reference = N4;
+ValeurCmp = D4/D5;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54565AE0;
+Reference = N5;
+ValeurCmp = D6/D7;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54565B37;
+Reference = N6;
+ValeurCmp = D8/D9;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54560AE6;
+Reference = N7;
+ValeurCmp = I2C_A;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /545609EE;
+Reference = N8;
+ValeurCmp = I2C_B;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54560997;
+Reference = N9;
+ValeurCmp = I2C_C;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456091F;
+Reference = N10;
+ValeurCmp = I2C_D;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54560877;
+Reference = N11;
+ValeurCmp = A2/A3;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /545625F7;
+Reference = N12;
+ValeurCmp = A0/A1;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54563BFA;
+Reference = N13;
+ValeurCmp = D12/D13;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54563C7C;
+Reference = N14;
+ValeurCmp = D10/D11;
+IdModule  = bus_grove12:Grove_Connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /54560834;
+Reference = N15;
+ValeurCmp = AVR_ISP_2X3;
+IdModule  = bus_grove12:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA42CF;
+Reference = R1;
+ValeurCmp = .47;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAC63C;
+Reference = R2;
+ValeurCmp = 22K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAC7FD;
+Reference = R3;
+ValeurCmp = 33K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EACA5C;
+Reference = R4;
+ValeurCmp = 100K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E99224;
+Reference = R5;
+ValeurCmp = 120;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EACAD9;
+Reference = R6;
+ValeurCmp = 100K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /542FA869;
+Reference = R7;
+ValeurCmp = 100K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E99988;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456B203;
+Reference = R9;
+ValeurCmp = 180;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456B3C2;
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54566E8C;
+Reference = R11;
+ValeurCmp = 4K7;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54566CD7;
+Reference = R12;
+ValeurCmp = 4K7;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54572F6C;
+Reference = R13;
+ValeurCmp = 470;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /545733D5;
+Reference = R14;
+ValeurCmp = 470;
+IdModule  = bus_grove12:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9A9CA;
+Reference = SW1;
+ValeurCmp = MJTP1243;
+IdModule  = bus_grove12:Button_6.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3E06;
+Reference = U1;
+ValeurCmp = LM2940;
+IdModule  = bus_grove12:TO-220_Neutral123_Horizontal_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAE540;
+Reference = U2;
+ValeurCmp = 74HCT08;
+IdModule  = bus_grove12:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E968BB;
+Reference = U3;
+ValeurCmp = MCP2562;
+IdModule  = bus_grove12:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456ADD1;
+Reference = U4;
+ValeurCmp = 74HCT03;
+IdModule  = bus_grove12:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E952D0;
+Reference = U5;
+ValeurCmp = ATMEGA328_DIP28;
+IdModule  = bus_grove12:DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA6D8D;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = bus_grove12:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe
